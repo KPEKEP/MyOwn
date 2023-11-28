@@ -1,0 +1,1 @@
+NeuroPavel implementation snapshot, without binaries, weights and access codes.

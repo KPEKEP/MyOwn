@@ -1,0 +1,10 @@
+folder_str: "dataset"
+target_height: 35
+target_width: 140
+char_num: 6
+batch_size: 64
+learning_rate: 0.001
+patience_epoch_fraction: 60
+max_epochs: 60
+alphabet: "0123456789"
+img_format: "jpg"
