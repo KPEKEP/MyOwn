@@ -2,25 +2,25 @@
 [Pavel Nakaznenko, 2024](https://www.linkedin.com/in/pavel-nakaznenko-060b6842/)
 
 ## TODO:
-- [x] Теория
-- [x] Наивная имплементация
+- [x] Theory
+- [x] Naive Implementation
 
-## Обзор
-Mamba_theory.ipynb - Jupyter Notebook с разбором архитектуры Mamba на русском языке.
+## Overview
+Mamba_theory.ipynb - Jupyter Notebook explaining the Mamba architecture in Russian.
 
-Mamba_practice.ipynb - Jupyter Notebook с наивной реализацией архитектуры Mamba на русском языке.
+Mamba_practice.ipynb - Jupyter Notebook with a naive implementation of the Mamba architecture in Russian.
 
-## Источники и благодарности
-Этот блокнот был разработан с использованием различных ценных ресурсов. Особая благодарность авторам и участникам этих ресурсов за их великолепную работу:
-- [Оригинальная статья о S6](https://arxiv.org/abs/2312.00752)
-- Репозиторий GitHub 'mamba-notes' от hkproj, который предоставил отличную выжимку. [hkproj/mamba-notes](https://github.com/hkproj/mamba-notes)
-- Онлайн-ресурс 'Annotated S4' от srush, предлагающий подробные аннотации и объяснения. [srush/annotated-s4](https://srush.github.io/annotated-s4/)
-- Видео на YouTube от Umar Jamil. [Видео на YouTube](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
-- Минималистичная имплементация [Minimal mamba](https://github.com/johnma2006/mamba-minimal)
-- Официальная, оптимизированная имплементация [Mamba](https://github.com/state-spaces/mamba)
+## Sources and Acknowledgments
+This notebook was developed using various valuable resources. Special thanks to the authors and contributors of these resources for their excellent work:
+- [Original S6 Paper](https://arxiv.org/abs/2312.00752)
+- GitHub repository 'mamba-notes' by hkproj, which provided an excellent summary. [hkproj/mamba-notes](https://github.com/hkproj/mamba-notes)
+- Online resource 'Annotated S4' by srush, offering detailed annotations and explanations. [srush/annotated-s4](https://srush.github.io/annotated-s4/)
+- YouTube video by Umar Jamil. [YouTube Video](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
+- Minimalistic implementation [Minimal mamba](https://github.com/johnma2006/mamba-minimal)
+- Official optimized implementation [Mamba](https://github.com/state-spaces/mamba)
 
-## Использование
-Для образовательных целей.
+## Usage
+For educational purposes.
 
-## Лицензия
-Этот проект является открытым и доступным для образовательного и исследовательского использования.
+## License
+This project is open and available for educational and research use.
