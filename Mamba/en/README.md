@@ -6,9 +6,9 @@
 - [x] Naive Implementation 
 
 ## Overview
-Mamba_theory.ipynb - Jupyter Notebook explaining the Mamba architecture in Russian.
+Mamba_theory.ipynb - Jupyter Notebook explaining the Mamba architecture
 
-Mamba_practice.ipynb - Jupyter Notebook with a naive implementation of the Mamba architecture in Russian.
+Mamba_practice.ipynb - Jupyter Notebook with a naive implementation of the Mamba architecture
 
 ## Sources and Acknowledgments
 This notebook was developed using various valuable resources. Special thanks to the authors and contributors of these resources for their excellent work:
