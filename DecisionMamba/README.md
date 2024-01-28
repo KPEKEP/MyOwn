@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an implementation of a Decision Mamba, a novel architecture that combines reinforcement learning and transformer models, 
+This project is an implementation of a Decision Mamba, a novel architecture that combines reinforcement learning and Mamba model, 
 to solve the CartPole-v1 environment from OpenAI Gym. The Decision Mamba is inspired by Decision Transformer architecture, but it uses Mamba instead of transformer to learn past experiences to make decisions, predicting the next best action 
 based on the current state and the desired return.
 
